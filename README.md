@@ -3,5 +3,6 @@
 This tutorial will guide you through the steps of setting up a CTFd server.
 
 The official CTFd code and documentation can be found [here](https://github.com/CTFd/CTFd). Clone this repository with the following command:
-```git clone test
+```sh
+git clone test
 ```
