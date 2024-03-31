@@ -2,7 +2,7 @@
 
 This tutorial will guide you through the steps of setting up a CTFd server.
 
-The official CTFd code can be found [here](https://github.com/CTFd/CTFd). Online documentation can be found here [here](https://docs.ctfd.io). Clone this repository with the following command:
+The CTFd code can be found [here](https://github.com/CTFd/CTFd){:target="_blank"}. Online documentation can be found here [here](https://docs.ctfd.io). Clone this repository with the following command:
 ```sh
 git clone https://github.com/CTFd/CTFd.git
 ```
