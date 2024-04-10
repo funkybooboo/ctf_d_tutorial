@@ -25,14 +25,14 @@ Clone the CTFd submodule:
 git submodule init
 git submodule update
 ```
-Then install dependencies:
+Then install dependencies (might take a minute):
 ```sh
 pip install -r requirements.txt
 ```
 
 Next, you will need to install Docker [here](https://docs.docker.com/install/).
 
-If your do not already have Docker Compose install, install it [here](https://docs.docker.com/compose/install/).
+If your do not already have Docker Compose installed, install it [here](https://docs.docker.com/compose/install/).
 
 # Hosting
 Start Docker with the following command:
