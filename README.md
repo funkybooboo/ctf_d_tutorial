@@ -43,4 +43,8 @@ docker run -p 8000:8000 -it ctfd/ctfd
 While docker is running, open up the following URL in a web browser:
 http://localhost:8000/setup
 
+From there you can follow the [Setup](#setup) instructions to setup your CTF. When you are done you can close the container through the terminal by pressin control + c. You can also run and close your container through the docker desktop app. This is how you can save change to your CTF. See the screenshot below.
+
+![](screenshot1.png)
+
 # Setup
