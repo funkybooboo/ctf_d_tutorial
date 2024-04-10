@@ -68,6 +68,10 @@ If you are on Mac or Linux, use the ```ifconfig``` command. Your IP address will
 
 ![](screenshot2.png)
 
+Then, share the following link, replaciing "ipaddress" with your own IP address: http://ipaddress:8000
+
+For example, if my IP address were 123.45.678.9, I would share the link http://123.45.678.9:8000.
+
 # Self Hosting
 
 
