@@ -1,4 +1,7 @@
-# CTFd-Tutorial
+Table of Contents
+1. [Introduction](#introduction)
+
+# Introduction
 
 This tutorial will guide you through the steps of setting up a CTFd server.
 
