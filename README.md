@@ -1,7 +1,8 @@
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [Setup](#setup)
+3. [Hosting](#hosting)
+4. [Setup](#setup)
 
 # Introduction
 
@@ -15,6 +16,15 @@ Clone this repository with the following command (if you have python 3 and pytho
 ```sh
 git clone https://github.com/evanmarlo/CTFd-Tutorial.git
 ```
+Change directories into the submodule:
+```sh
+cd CTFd
+```
+Clone the CTFd submodule:
+```
+git submodule init
+git submodule update
+```
 Then install dependencies:
 ```sh
 pip install -r requirements.txt
@@ -23,9 +33,6 @@ pip install -r requirements.txt
 Next, you will need to install Docker [here](https://docs.docker.com/install/).
 
 If your do not already have Docker Compose install, install it [here](https://docs.docker.com/compose/install/).
-
-git submodule init
-git submodule update
 
 # Hosting
 Start Docker with the following command:
