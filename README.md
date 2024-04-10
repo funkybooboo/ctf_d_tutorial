@@ -1,14 +1,25 @@
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [Hosting](#hosting locally)
-4. [Setup](#setup)
+3. [Hosting Locally](#hosting-locally)
+4. [Self Hosting](#hosting-locally)
+5. [Setup](#setup)
 
 # Introduction
 
 This tutorial will guide you through the steps of setting up a CTFd server. The CTFd code can be found [here](https://github.com/CTFd/CTFd). Online documentation can be found here [here](https://docs.ctfd.io).
 
-If you want to host through CTFd, you can skip to [Hosting Remotely Through CTFd](#hosting-remotely-through-ctfd)
+You have a few options when it comes to hosting:
+
+1. You can host 100% free locally, allowing anyone on your network to access your CTF.
+
+2. You can also self host publicly, but you will need your own computer to use as a server, and will need to pay if you want a fancy domain name. This is also a fairly complicated option.
+
+3. The easist option to host publicly is through CTFd. The downside is this should will $10 monthly.
+
+If you want to host through CTFd, you can skip to [Hosting Remotely Through CTFd](#hosting-remotely-through-ctfd).
+
+If you want to host yourself through options 1 and 2, continue to the installation section.
 
 # Installation
 
@@ -49,7 +60,16 @@ From there you can follow the [Setup](#setup) instructions to setup your CTF. Wh
 
 ![](screenshot1.png)
 
+In order for to share your CTF with other devices on your network, you will need to know your IP address. If you are on Windows and don't know your machine's IP address already, run the following:
+```
+ipconfig
+```
+If you are on Mac or Linux, use the ```ifconfig``` command. Your IP address will be at "IPv4 Address". Here is a screenshot example:
+
+![](screenshot2.png)
+
 # Self Hosting
+
 
 # Hosting Remotely Through CTFd
 
