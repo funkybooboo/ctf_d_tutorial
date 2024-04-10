@@ -8,7 +8,7 @@
 
 This tutorial will guide you through the steps of setting up a CTFd server. The CTFd code can be found [here](https://github.com/CTFd/CTFd). Online documentation can be found here [here](https://docs.ctfd.io).
 
-If you want to host through CTFd, you can skip to [Hosting Remotely Through CTFd](#hosting remotely through ctfd)
+If you want to host through CTFd, you can skip to [Hosting Remotely Through CTFd](#hosting-remotely-through-ctfd)
 
 # Installation
 
