@@ -1,11 +1,16 @@
-Table of Contents
+# Table of Contents
 1. [Introduction](#introduction)
+2. [Installation](#installation)
 
 # Introduction
 
-This tutorial will guide you through the steps of setting up a CTFd server.
+This tutorial will guide you through the steps of setting up a CTFd server. The CTFd code can be found [here](https://github.com/CTFd/CTFd). Online documentation can be found here [here](https://docs.ctfd.io). 
 
-The CTFd code can be found [here](https://github.com/CTFd/CTFd). Online documentation can be found here [here](https://docs.ctfd.io). Clone this repository with the following command:
+# Installation
+
+The first step is to clone this repository. If you are new to using SSH, you can access [this](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys#set-up-deploy-keys) tutorial for help setting up a key.
+
+Clone this repository with the following command:
 ```sh
 git clone https://github.com/CTFd/CTFd.git
 ```
