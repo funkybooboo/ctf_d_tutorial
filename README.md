@@ -16,7 +16,7 @@ Your first step will be deciding how to host your server. You have a few options
 
 2. You can also self host publicly, but you will want your own computer to use as a server, and will need to pay if you want a domain name. This is also a fairly complicated option.
 
-3. The easist option to host publicly is through CTFd itself. The only downside is this will $10 monthly.
+3. The easist option to host publicly is through CTFd itself. You can get a ctfd.io URL. The only downside is this will $10 monthly.
 
 If you want to host through CTFd, you can skip installation and head straight to [Hosting Remotely Through CTFd](#hosting-remotely-through-ctfd).
 
@@ -86,9 +86,9 @@ If you are really interested in setting up the domain name yourself, [here](http
 Once you have your domain name setup, you can host it with docker. Here is a useful [repo](https://github.com/3Nigma/dsdr-setup) that comes with an article that details how to host with docker.
 
 # Hosting Remotely Through CTFd
-Hosting through CTFd is really easy. If you would like an educational discount, you can fill out their [contact form](https://ctfd.io/contact/).
+Hosting through CTFd is easy and intuitive. If you would like an educational discount, you can fill out their [contact form](https://ctfd.io/contact/).
 
-Then head to their [pricing page](https://ctfd.io/pricing/) and select a plan, and create a new instance.
+Once you have setup the educational discount, head to their [pricing page](https://ctfd.io/pricing/) and select a plan, and create a new instance.
 
 # Setup
 Once you have your server setup, CTFd has a great [tutorial](https://docs.ctfd.io/tutorials/getting-started/) on how to setup your challenges.
