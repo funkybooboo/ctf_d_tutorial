@@ -14,7 +14,7 @@ Your first step will be deciding how to host your server. You have a few options
 
 1. Because CTFd is open source, hosting locally is 100% free. This allows anyone on your network to access your CTF.
 
-2. You can also self host publicly, but you will want your own computer to use as a server, and will need to pay if you want a domain name. This is also a fairly complicated option.
+2. You can also self host publicly, but you will want your own computer to use as a server, and will need to pay if you want a (good) domain name. This is also a fairly complicated option.
 
 3. The easist option to host publicly is through CTFd itself. You can get a ctfd.io URL. The only downside is this will cost $10 monthly.
 
@@ -73,7 +73,7 @@ Then, share the following link, replacing "ipaddress" with your own IP address: 
 
 For example, if my IP address were 123.45.678.9, I would share the link http://123.45.678.9:8000.
 
-From here, if you all you want to do is host locally, you can skip to the [Setup](#setup) section.
+From here, if all you want to do is host locally, you can skip to the [Setup](#setup) section.
 
 # Self Hosting
 
@@ -86,7 +86,7 @@ If you are really interested in setting up the domain name yourself, [here](http
 Once you have your domain name setup, you can host it with docker. Here is a useful [repo](https://github.com/3Nigma/dsdr-setup) that comes with an article that details how to host with docker.
 
 # Hosting Remotely Through CTFd
-Hosting through CTFd is easy and intuitive. If you would like an educational discount, you can fill out their [contact form](https://ctfd.io/contact/).
+Hosting through CTFd is easy and intuitive. If you would like an educational discount, you can request one through their [contact form](https://ctfd.io/contact/).
 
 Once you have setup the educational discount, head to their [pricing page](https://ctfd.io/pricing/) and select a plan, and create a new instance.
 
