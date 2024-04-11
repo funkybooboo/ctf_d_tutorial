@@ -79,7 +79,7 @@ From here, if all you want to do is host locally, you can skip to the [Setup](#s
 
 First, you will want a (probably Linux) machine to act as your server and run your server.
 
-Your first step to self hosting will be getting a domain name. You can usually get a domain name fairly cheap through a registrar. I can't recomend one specifically but some examples you can use are Wix, GoDaddy, Mailchimp, or AWS.
+Your first step to self hosting will be getting a domain name. You can usually get a domain name fairly cheap through a registrar. I can't recommend one specifically but some examples you can use are Wix, GoDaddy, Mailchimp, or AWS.
 
 If you are really interested in setting up the domain name yourself, [here](https://blog.technitium.com/2022/06/how-to-self-host-your-own-domain-name.html) is an article that details how you may do that.
 
