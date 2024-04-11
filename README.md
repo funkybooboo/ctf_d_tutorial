@@ -34,7 +34,7 @@ Change directories into the submodule:
 ```sh
 cd CTFd
 ```
-Clone the CTFd submodule. It is not necessary to understand submodules to set this up, but if you are unfamiliar wit hsubmoduels you can learn more [here](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+Clone the CTFd submodule. It is not necessary to understand submodules to set this up, but if you are unfamiliar with submodules you can learn more [here](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 ```
 git submodule init
 git submodule update
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 Next, you will need to install Docker [here](https://docs.docker.com/install/).
 
-If your do not already have Docker Compose installed, install it [here](https://docs.docker.com/compose/install/).
+If you do not already have Docker Compose installed, install it [here](https://docs.docker.com/compose/install/).
 
 # Hosting Locally
 Start Docker with the following command:
@@ -57,7 +57,7 @@ docker run -p 8000:8000 -it ctfd/ctfd
 While docker is running, open up the following URL in a web browser:
 http://localhost:8000/setup
 
-From there you can follow the [Setup](#setup) instructions to setup your CTF. When you are done you can close the container through the terminal by pressing control + c. You can also run and close your container through the docker desktop app. This is how you will save changes to your CTF. See the screenshot below.
+From there you can follow the [Setup](#setup) instructions to setup your CTF. When you are done you can close the container through the terminal by pressing control + c. You can also run and close your container through the docker desktop app. This is how you will save changes to your CTF. Alternatively, you can [export entire CTFd instance data](https://docs.ctfd.io/docs/exports/ctfd-exports). See the screenshot below.
 
 ![](screenshot1.png)
 
