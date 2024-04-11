@@ -7,17 +7,17 @@
 
 # Introduction
 
-This tutorial will guide you through the steps of setting up a CTFd server. The CTFd code can be found [here](https://github.com/CTFd/CTFd). Online documentation can be found here [here](https://docs.ctfd.io).
+CTFd is an easy capture the flag framework. This tutorial will guide you through the steps of setting up a CTFd server. The CTFd code can be found [here](https://github.com/CTFd/CTFd). Official online documentation can be found here [here](https://docs.ctfd.io).
 
-You have a few options when it comes to hosting:
+Your first step will be deciding how to host your server. You have a few options when it comes to hosting:
 
-1. You can host 100% free locally, allowing anyone on your network to access your CTF.
+1. Because CTFd is open source, hosting locally is 100% free. This allows anyone on your network to access your CTF.
 
-2. You can also self host publicly, but you will need your own computer to use as a server, and will need to pay if you want a fancy domain name. This is also a fairly complicated option.
+2. You can also self host publicly, but you will want your own computer to use as a server, and will need to pay if you want a domain name. This is also a fairly complicated option.
 
-3. The easist option to host publicly is through CTFd. The downside is this should will $10 monthly.
+3. The easist option to host publicly is through CTFd itself. The only downside is this will $10 monthly.
 
-If you want to host through CTFd, you can skip to [Hosting Remotely Through CTFd](#hosting-remotely-through-ctfd).
+If you want to host through CTFd, you can skip installation and head straight to [Hosting Remotely Through CTFd](#hosting-remotely-through-ctfd).
 
 If you want to host yourself through options 1 and 2, continue to the installation section.
 
