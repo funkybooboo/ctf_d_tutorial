@@ -16,7 +16,7 @@ Your first step will be deciding how to host your server. You have a few options
 
 2. You can also self host publicly, but you will want your own computer to use as a server, and will need to pay if you want a domain name. This is also a fairly complicated option.
 
-3. The easist option to host publicly is through CTFd itself. You can get a ctfd.io URL. The only downside is this will $10 monthly.
+3. The easist option to host publicly is through CTFd itself. You can get a ctfd.io URL. The only downside is this will cost $10 monthly.
 
 If you want to host through CTFd, you can skip installation and head straight to [Hosting Remotely Through CTFd](#hosting-remotely-through-ctfd).
 
@@ -34,7 +34,7 @@ Change directories into the submodule:
 ```sh
 cd CTFd
 ```
-Clone the CTFd submodule:
+Clone the CTFd submodule. It is not necessary to understand submodules to set this up, but if you are unfamiliar wit hsubmoduels you can learn more [here](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 ```
 git submodule init
 git submodule update
