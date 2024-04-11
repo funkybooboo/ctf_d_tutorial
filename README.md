@@ -90,3 +90,4 @@ Hosting through CTFd is really easy. If you would like an educational discount, 
 Then head to their [pricing page](https://ctfd.io/pricing/) and select a plan, and create a new instance.
 
 # Setup
+Once you have your server setup, CTFd has a great [tutorial](https://docs.ctfd.io/tutorials/getting-started/) on how to setup your challenges.
