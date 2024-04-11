@@ -8,7 +8,7 @@
 
 # Introduction
 
-CTFd is an easy capture the flag framework. This tutorial will guide you through the steps of setting up a CTFd server. The CTFd code can be found [here](https://github.com/CTFd/CTFd). Official online documentation can be found here [here](https://docs.ctfd.io).
+CTFd is an easy capture the flag framework. This tutorial will guide you through the steps of setting up a CTFd server. The CTFd code can be found [here](https://github.com/CTFd/CTFd). Official online documentation can be found [here](https://docs.ctfd.io).
 
 Your first step will be deciding how to host your server. You have a few options when it comes to hosting:
 
@@ -20,13 +20,13 @@ Your first step will be deciding how to host your server. You have a few options
 
 If you want to host through CTFd, you can skip installation and head straight to [Hosting Remotely Through CTFd](#hosting-remotely-through-ctfd).
 
-If you want to host yourself through options 1 and 2, continue to the installation section.
+If you choose options 1 and 2 and want to host the server yourself, continue to the installation section.
 
 # Installation
 
 The first step is to clone this repository. If you are new to using SSH, you can access [this](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys#set-up-deploy-keys) tutorial for help setting up a key.
 
-Clone this repository with the following command (if you have python 3 and python 2 installed, you might need to use pip3):
+Clone this repository with the following command:
 ```sh
 git clone https://github.com/evanmarlo/CTFd-Tutorial.git
 ```
@@ -39,7 +39,7 @@ Clone the CTFd submodule:
 git submodule init
 git submodule update
 ```
-Then install dependencies (might take a minute):
+Then install dependencies (might take a minute, if you have python 3 and python 2 installed, you might need to use pip3):
 ```sh
 pip install -r requirements.txt
 ```
