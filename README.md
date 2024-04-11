@@ -2,8 +2,9 @@
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Hosting Locally](#hosting-locally)
-4. [Self Hosting](#hosting-locally)
-5. [Setup](#setup)
+4. [Self Hosting](#self-hosting)
+5. [Hosting Through CTFd](#hosting-remotely-through-ctfd)
+6. [Setup](#setup)
 
 # Introduction
 
