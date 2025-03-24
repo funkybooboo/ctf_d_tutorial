@@ -1,4 +1,4 @@
-# Table of Contents
+# Ctf D Tutorial
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Hosting Locally](#hosting-locally)
