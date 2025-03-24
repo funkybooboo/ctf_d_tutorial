@@ -92,3 +92,6 @@ Once you have setup the educational discount, head to their [pricing page](https
 
 # Setup
 Once you have your server setup, CTFd has a great [tutorial](https://docs.ctfd.io/tutorials/getting-started/) on how to setup your challenges.
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
